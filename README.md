@@ -6,7 +6,7 @@
 
 This project showcases a 3D animation of a car moving from one point of the road to another  using Blender. The animation designed to demonstrate skills in animation, modeling, and rendering.. 
 
-## Table of Contents
+## Table of Content
 
 - [Project Description](#project-description)
 - [Getting Started](#getting-started)
