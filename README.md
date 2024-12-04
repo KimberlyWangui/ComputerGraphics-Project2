@@ -1,4 +1,4 @@
-# ComputerGraphics-Project
+# ComputerGraphics-Project2
 
 # 3D Animation and Modeling Project - A Moving Car Animation
 
