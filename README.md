@@ -10,9 +10,8 @@ This project showcases a 3D animation of a car moving from one point of the road
 
 - [Project Description](#project-description)
 - [Getting Started](#getting-started)
-- [Tutorials Used](#tutorials-used)
+- [Resources](#resources)
 - [Features](#features)
-- [Project Structure](#Project-Structure)
 - [License](#license)
 
 ## Project Description
@@ -36,15 +35,25 @@ The objective of this project is to create a realistic animation of a car travel
 ### Installation
 
 1. Download and install Blender from the [official website](https://www.blender.org/download/).
+   
+2. Clone this repository or download the project files.
+   
+3. Open the .blend file in Blender and render.
 
 ## Resources
 
 Blender Beginner's Guide -     (https://www.youtube.com/watch?v=Rqhtw7dg6Wk)
+
 How to Model a Car in Blender- (https://www.youtube.com/watch?v=ld2wRLay2A4)
+
 How to Rig a Car in Blender -  (https://www.youtube.com/watch?v=8KYiqr2thF0)
+
 Road  Modeling https -         (//www.youtube.com/watch?v=RmLtV6E2TsI)
+
 Render Tutorial    -           (https://www.youtube.com/watch?v=RRCoKHDQTd8)
+
 Image to Video Tutorial -      (https://www.youtube.com/watch?v=JsiP0sY9ADQ)
+
 
 ## Features
 
@@ -52,23 +61,6 @@ Realistic car model with animated car body.
 Smooth motion along a curved road.
 Basic environment including roads and a sidewalk.
 Simple camera setup to follow the car.
-
-## Project Structure
-
-Blender Project/
-│
-│   ├── car animation.blend   # Blend file that has  been rendered
-│   └── copy.blend            # Blend file that has not been rendered
-├── add- on/ 
-├── car/              # Contains 3D car models
-├── images/           # Rendered images
-├── layout/           # Contains the layout  for the project
-├──road textures/     # Contains textures of the road
-├── textures/         # Contains textures such as wall concrete texture     
-├── README.md         # Project documentation
-└── outputs/             
-    └── final_render.mp4
-
 
 ## Contributing
 
