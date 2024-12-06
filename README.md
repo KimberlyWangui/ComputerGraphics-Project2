@@ -38,7 +38,7 @@ The objective of this project is to create a realistic animation of a car travel
    
 2. Clone this repository or download the project files.
    
-3. Open the .blend file in Blender and render.
+3. Unzip and open and the copy.blend file in Blender and render.
 
 ## Resources
 
